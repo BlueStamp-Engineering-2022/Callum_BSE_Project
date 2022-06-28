@@ -26,9 +26,8 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 My starter project was the Useless Machine. A useless machine is a machine that is designed with the sole purpose of turning itself off, with no other function, or use. My useless machine was made from the Spikenzie Labs "The Useless Machine: DIY Soldering Edition". It includes a basic circuit board, battery, motor, LED light, current resistors, arm, and switchs. When switched on, the arm moves from the bottem of the machine up to the switch, after hitting the switch, the motor reverses direction by flipping the direction of the current until it hits a smaller hidden switch which shuts off the whole circuit. Meanwhile, the LED light displays a color based on the direction of the arm, green for going towards the switch, and red for going away. This project gave me useful soldering skills on the circuit board, and also helped increase my understanding of circuit boards and useless machines. I thought it was interesting how the top switch when flipped back doesn't turn off the circuit, but instead reverses the direction of the current.
 
 ## **Starter Project Circuit Diagram:**
-![Starter Project Circuit](http://www.spikenzielabs.com/Downloadables/uselessmachine/UM_Schematic.png)
-<img src="(http://www.spikenzielabs.com/Downloadables/uselessmachine/UM_Schematic.png)" alt="Starter Project Circuit Diagram">
-<img src="Starter Project Circuit Diagram" width="600" height="300">
+![Webp net-resizeimage](https://user-images.githubusercontent.com/108303467/176305792-12ad9cae-ec36-4eba-9aa5-a974e1aa0c1b.jpg)
+
 
 
 [![Starter Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "Starter Project"){:target="_blank" rel="noopener"}
