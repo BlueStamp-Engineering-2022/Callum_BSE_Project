@@ -30,4 +30,4 @@ My starter project was the Useless Machine. A useless machine is a machine that 
 
 
 
-[![Starter Project][(https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg](https://www.youtube.com/watch?v=M1O_f21LjaQ))]( "Starter Project"){:target="_blank" rel="noopener"}
+[![Starter Project][(https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg](https://www.youtube.com/watch?v=M1O_f21LjaQ))]( "Starter Project")
