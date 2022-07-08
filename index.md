@@ -1,9 +1,9 @@
 ﻿# Tiny Wandering Robot
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+My project is a wandering table robot, that will be able to stay on a table and sense the edge. When it sees the dge it will turn around and not fall off.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Callum Anderson | UHS | Electrical Engineering | Incoming Softmore
+| Callum | UHS | Electrical Engineering | Incoming Sophomore
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
